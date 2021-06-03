@@ -2,6 +2,6 @@
 
 
 
-![Cover](https://github.com/Frutios/BenjaminTourneur/blob/main/Benjamin_Tourneur.jpg)
+![Cover](https://https://github.com/Frutios/BenjaminTourneur/blob/main/BenjaminTourneur.png)
 
 
